@@ -71,7 +71,7 @@ function getWinner(playerMove,computerMove) {
 }
 
 function playToX(x) {
-    // working // Write code that plays 'Rock, Paper, Scissors' until either the player or the computer has won five times.
+    // working // Write code that plays 'Rock, Paper, Scissors' until either the player or the computer has won X number of times.
     console.log("**Let's play Rock, Paper, Scissors! We're playing to " + x + "!**");
     var playerWins = 0;
     var computerWins = 0;
